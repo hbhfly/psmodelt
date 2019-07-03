@@ -1,5 +1,5 @@
 {
-   "commerceSuiteVersion": "6.7.0.1",
+   "commerceSuiteVersion": "1811.5",
    "troubleshootingModeEnabled":true,
    "extensions": [
    	   "mcc",
@@ -48,7 +48,9 @@
        "customsitetest",
        "customsiteinitialdata",
        "customsitestorefront",
-       "personalizationsearchsamplesaddon"
+       "personalizationsearchsamplesaddon"，
+       "ticketsystem"，
+       "ticketsystembackoffice"
    ],
    "storefrontAddons" : [
         {
